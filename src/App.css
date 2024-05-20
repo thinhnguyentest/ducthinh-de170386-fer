@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+li:hover{
+  background-color: white;
+  color: red;
+  cursor: pointer;
+}
